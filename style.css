@@ -25,7 +25,9 @@ body {
     font-size: 40px;
 }
 
+.lista-1{
+    text-align: center; 
+}
 #imagem-1 {
     width: 40%;
-    align-items: center;
 }
