@@ -25,9 +25,15 @@ body {
     font-size: 40px;
 }
 
-.lista-1{
+.lista-1 {
     text-align: center; 
 }
+
+#subtitulo-1 {
+    text-align: center;
+    color: rgb(135,206,235);
+}
+
 #imagem-1 {
     width: 40%;
 }
