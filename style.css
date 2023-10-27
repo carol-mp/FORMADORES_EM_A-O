@@ -24,3 +24,7 @@ body {
     color: rgb(135,206,250);
     font-size: 40px;
 }
+
+#imagem-1 {
+    width: 40%;
+}
