@@ -3,15 +3,21 @@ body {
     color: white;
 }
 
-h1 {
+#titulo-1 {
     text-align: center;
     color:black;
 }
 
-p {
+.paragrafo-1 {
     color:azure;
     text-align: center;
     font-size: 20px;
+}
+
+.paragrafo-2 {
+    color:whitesmoke;
+    text-align: center;
+    font-size: 25px;
 }
 
 h2 {
