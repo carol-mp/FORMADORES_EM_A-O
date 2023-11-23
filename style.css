@@ -1,6 +1,21 @@
+header{
+    background-color: rgb(135,206,235);
+    color:black;
+}
+
+.cabecalho {
+    font-size: 35px;
+    text-align: center;
+}
+
 body {
     background-color: rgb(0,0,0);
     color: white;
+}
+
+.sessao-1 {
+    background-color: aquamarine;
+    color:black;
 }
 
 #titulo-1 {
@@ -43,4 +58,15 @@ body {
 
 #imagem-2 {
     width: 40%;
+}
+
+.conteudo {
+    font-size: 40px;
+}
+
+.rodape {
+    background-color: rgb(135,206,235);
+    color: black;
+    font-size: 40px;
+    text-align: center;
 }
