@@ -3,8 +3,12 @@ header{
     color:black;
 }
 
+h1 {
+    text-align: center;
+}
+
 .cabecalho {
-    font-size: 35px;
+    font-size: 25px;
     text-align: center;
 }
 
@@ -24,13 +28,13 @@ body {
 }
 
 .paragrafo-1 {
-    color:azure;
+    color:black;
     text-align: center;
     font-size: 20px;
 }
 
 .paragrafo-2 {
-    color:whitesmoke;
+    color: black;
     text-align: center;
     font-size: 25px;
 }
@@ -61,7 +65,7 @@ body {
 }
 
 .conteudo {
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .rodape {
