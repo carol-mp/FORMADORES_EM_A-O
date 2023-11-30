@@ -1,14 +1,11 @@
-header{
+.cabecalho {
     background-color: rgb(135,206,235);
     color:black;
-}
-
-h1 {
+    font-size: 25px;
     text-align: center;
 }
 
-.cabecalho {
-    font-size: 25px;
+h1 {
     text-align: center;
 }
 
